@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Axeljuma
-- 👀 I’m interested in Software development.
-- 🌱 I’m currently learning Javaswing.
+- 👀 I’m interested in Electrical Engineering.
+- 🌱 I’m currently learning JavaFx.
 - 💞️ I’m looking to collaborate on any cool projects.
 - 📫 How to reach me : adhikariayush113@gmail.com
 
